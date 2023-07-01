@@ -1,0 +1,13 @@
+config.json
+node_modules
+stats.json
+package-lock.json
+contracts/proofs*
+contracts/build
+contracts/artifacts
+contracts/artifacts-zk
+contracts/cache
+contracts/cache-zk
+contracts/.secret
+contracts/.etherscanApi
+contracts/.api_keys
